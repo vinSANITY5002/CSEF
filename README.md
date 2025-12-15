@@ -1,11 +1,6 @@
 Student Management API
 A comprehensive RESTful API for managing student records built with Flask and MySQL. This system provides full CRUD operations, JWT authentication, and support for multiple data formats (JSON/XML).
 
-https://img.shields.io/badge/Flask-2.0+-blue
-https://img.shields.io/badge/MySQL-8.0-orange
-https://img.shields.io/badge/Python-3.8+-green
-https://img.shields.io/badge/License-MIT-yellow
-
 Features
 ✅ Full CRUD Operations - Create, Read, Update, Delete student records
 
