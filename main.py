@@ -21,9 +21,7 @@ mysql = MySQL(app)
 
 JWT_SECRET_KEY = 'your-secret-key-change-me'
 
-
 def init_database():
-    """Initialize database with your table structure"""
     try:
         cur = mysql.connection.cursor()
         
